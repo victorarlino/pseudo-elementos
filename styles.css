@@ -1,4 +1,4 @@
-/* Estilo para o parágrafo */
+
 p {
     font-size: 18px;
     line-height: 1.8;
@@ -8,14 +8,14 @@ p {
     margin: 20px;
   }
   
-  /* Estilo para a primeira letra */
+
   p::first-letter {
     font-size: 3em;
     color: #ff5733;
     font-weight: bold;
   }
   
-  /* Estilo para a primeira linha */
+
   p::first-line {
     color: #555;
     font-style: italic;
